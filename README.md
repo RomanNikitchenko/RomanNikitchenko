@@ -9,6 +9,7 @@ My project experience includes team and individual projects, where I have worked
 - 🏆 Goal: **I want to make an impact in people's lives using technology.**
 - 🌱 Motto: **Future is in our hands, create it.**
 - 📫 How to reach me **https://www.linkedin.com/in/roman--nikitchenko/**
+- ⚡ Fun fact: **I love what I do - code**
 ___
 
 <h3 align="left">My stack:</h3>
